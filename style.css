@@ -119,3 +119,14 @@ nav ul li a:hover::after{
     bottom: -8px;
     transition: 0.5s;
 }
+/* ............form............. */
+.form{
+    width: 400px;
+    height: auto;
+    background-color: gray;
+    padding: 20px 15px;
+}
+.label{
+    width: 100px;
+    float: left;
+}
